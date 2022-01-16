@@ -4,3 +4,6 @@ def add(a, b):
 
 def substract(a, b):
 	return a-b
+
+def say_hello():
+	print("hello")
